@@ -1,0 +1,7 @@
+20 65
+20 1
+BEG gameData/beg.txt
+INT gameData/int.txt
+EXP gameData/exp.txt
+SUPR gameData/supr.txt
+STRIP gameData/strip.txt
